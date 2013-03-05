@@ -22,7 +22,7 @@ function showSpiral() {
   layer.add(textpath);
   stage.add(layer);
 
-  var text = 'hi, welcome to the angie zoo, where little animals move around and do cool things with the help of html5';
+  var text = 'hi, welcome to the angie zoo, where little animals move and do cool things with the help of html5';
   // interval
   var n = 0, rotSpeed = 0.1, anim;
   var interval = setInterval(function() {
